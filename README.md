@@ -6,12 +6,14 @@
 
 Player 1 Controls:
 
-W - Moves paddle up.
+W - Moves paddle up. 
+
 S - Moves paddle down.
 
 
 Player 2 Controls:
 
 Up Arrow - Moves paddle up.
+
 Down Arrow - Moves paddle down.
 
